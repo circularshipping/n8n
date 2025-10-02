@@ -6,6 +6,3 @@ Its original use was to:
   3) Consequently retrieve important and personalized information from the websites of the corresponding companies
   4) Set up personalized emails and messages to contact them with personal messages
   5) Once an answer has been received, the answer has to be stored in an Excel?
-
-Alternatively:
-  1) 
